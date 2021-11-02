@@ -7,7 +7,7 @@ import csv
 
 
 def checker():
-    website = 'https://'
+    website = 'https://'    #Your Wordpress Website 
     sitemap = website + '/sitemap_index.xml'
 
 # Kategorie parsen
